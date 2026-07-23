@@ -1,0 +1,6 @@
+{
+  "page_access_token": "PASTE_PAGE_ACCESS_TOKEN_HERE",
+  "verify_token": "PASTE_VERIFY_TOKEN_HERE",
+  "app_secret": "PASTE_APP_SECRET_HERE",
+  "admin_psids": []
+}
